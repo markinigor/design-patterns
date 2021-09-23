@@ -13,5 +13,7 @@
             "email": "igorvdonsk@yandex.ru"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
