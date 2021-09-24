@@ -1,6 +1,6 @@
 <?php
 
-namespace FactoryMethod\DP;
+namespace Tests\FactoryMethod\DP;
 
 use App\FactoryMethod\DP\FileLogger;
 use App\FactoryMethod\DP\FileLoggerFactory;

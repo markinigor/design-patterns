@@ -1,11 +1,7 @@
 <?php
 
-namespace FactoryMethod\Guru;
+namespace Tests\FactoryMethod\Guru;
 
-use App\FactoryMethod\DP\FileLogger;
-use App\FactoryMethod\DP\FileLoggerFactory;
-use App\FactoryMethod\DP\StdoutLogger;
-use App\FactoryMethod\DP\StdoutLoggerFactory;
 use App\FactoryMethod\Guru\FacebookConnector;
 use App\FactoryMethod\Guru\FacebookPoster;
 use App\FactoryMethod\Guru\LinkedInConnector;
