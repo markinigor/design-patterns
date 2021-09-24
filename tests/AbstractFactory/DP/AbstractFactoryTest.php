@@ -7,10 +7,6 @@ use App\AbstractFactory\DP\JsonWriter;
 use App\AbstractFactory\DP\UnixWriterFactory;
 use App\AbstractFactory\DP\WinWriterFactory;
 use App\AbstractFactory\DP\WriterFactory;
-use App\FactoryMethod\DP\FileLogger;
-use App\FactoryMethod\DP\FileLoggerFactory;
-use App\FactoryMethod\DP\StdoutLogger;
-use App\FactoryMethod\DP\StdoutLoggerFactory;
 use PHPUnit\Framework\TestCase;
 
 class AbstractFactoryTest extends TestCase
