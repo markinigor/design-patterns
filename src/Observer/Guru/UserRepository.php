@@ -95,7 +95,7 @@ class UserRepository implements \SplSubject
         return $user;
     }
 
-    public function updateUser(User $user, array $data): User
+    public function updateUser(User $user, array $data): ?User
     {
         echo "UserRepository: Updating a user.\n";
 
